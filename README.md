@@ -13,7 +13,7 @@ Semua versi: [Releases](https://github.com/klipai-id/klipai-releases/releases)
 
 ## Pertama kali dibuka
 
-- **Mac:** seret KlipAI ke Applications, lalu klik kanan KlipAI → Buka → Buka.
+- **Mac:** seret KlipAI ke Applications, lalu buka. Saat muncul "KlipAI Tidak Dibuka", klik Selesai, lalu Pengaturan Sistem → Privasi & Keamanan → gulir ke bawah → Tetap Buka → masukkan password → Buka.
 - **Windows:** kalau muncul "Windows protected your PC", klik More info → Run anyway.
 
 Bantuan: support@klipai.id
